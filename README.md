@@ -32,7 +32,7 @@ Hello! I am **Muhammad Saqlain Shoukat** also known as **Dark Wolf** founder and
 
 ---
 
-> **Watch Demo**: You can also watch demo for its learning from here 👉: [HYDRA in 1 Video](https://youtu.be/LdSuTnqLRdk?si=WfalotoJSfucJkGX)
+> **Watch Demo**: You can also watch demo for its learning from here 👉: [Nmap in 1 Video](https://youtu.be/LdSuTnqLRdk?si=WfalotoJSfucJkGX)
 
 ## 📖 Introduction
 **Nmap** (Network Mapper) is an open-source tool for:
